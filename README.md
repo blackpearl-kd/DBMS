@@ -87,7 +87,7 @@ dbms-cpp/
 
 ## 👨‍💻 Author
 
-**Kishlay Dwivedi**
+[**Kishlay Raj**](https://github.com/blackpearl-kd)
 B.Tech Student, Civil Engineering
 **Indian Institute of Technology (IIT) Guwahati**
 
