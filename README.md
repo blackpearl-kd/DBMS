@@ -88,7 +88,7 @@ dbms-cpp/
 ## 👨‍💻 Author
 
 [**Kishlay Raj**](https://github.com/blackpearl-kd)
-
+[**Srijan Kumar**](https://github.com/opsrijan)
 
 ---
 
